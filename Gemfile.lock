@@ -439,7 +439,7 @@ GEM
       pg (>= 1.1, < 2.0)
     raabro (1.4.0)
     racc (1.8.1)
-    rack (3.1.8)
+    rack (3.1.10)
     rack-cache (1.17.0)
       rack (>= 0.4)
     rack-protection (4.0.0)
